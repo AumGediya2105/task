@@ -1,0 +1,31 @@
+.companies {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 40px;
+    padding: 64.4px 0px;
+
+    .top {
+        color: #FFFFFFB2;
+
+    }
+
+    .btm {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        .c2 {
+            display: flex;
+            gap: 10px;
+        }
+
+        .c3 {
+            display: flex;
+            gap: 10px;
+        }
+    }
+
+}
